@@ -1,0 +1,135 @@
+
+/* Global styles */
+html {
+	box-sizing: border-box;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-size: 16px;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 20px;
+    background: #dbbcbc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+/*     align-items: center; */
+}
+
+
+
+h1 {
+	margin: 0;
+}
+
+
+
+.maincontainer h1 {
+    color: #dbcdcd;
+    text-align: center;
+}
+
+form label {
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    color: #dbcdcd;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form input[type="text"] {
+    /* width: 90%; */
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 20px;
+    border: 2px solid #99AF8F ;
+    box-shadow: 0px 0px 11px 4px rgba(0, 0, 0, 0.25);
+}
+
+form button {
+    background-color:#99AF8F;
+    color:  #dbcdcd;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+form button:hover {
+    border: 2px solid  #99AF8F;
+}
+
+/* Benefits section styles */
+.benefits {
+	background-color:  #788ba3;
+	padding: 2rem 1rem;
+}
+
+ul {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+li {
+	margin-bottom: 1rem;
+}
+
+/* Demo section styles */
+.demo {
+	background-color: #f8f8f8;
+	padding: 4rem 1rem;
+	text-align: center;
+}
+
+/* Testimonials section styles */
+.testimonials {
+	background-color:  #996888;
+	padding: 2rem 1rem;
+	text-align: center;
+}
+
+blockquote {
+	font-style: italic;
+	margin-bottom: 1rem;
+}
+
+cite {
+	font-weight: bold;
+}
+
+/* Footer styles */
+footer {
+	background-color: #99AF8F;
+	color:  #dbbcbc;
+	text-align: center;
+	padding: 1rem;
+}
+
+
+.maincontainer {
+    width: 80%;
+    height: auto;
+    min-height: 350px;
+    padding: 40px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 11px 4px rgba(0, 0, 0, 0.25);
+    background: #507255;
+    background: -webkit-linear-gradient(to right,  #99AF8F,#507255);
+    background: linear-gradient(to right,  #99AF8F, #507255);
+    margin: auto;
+    margin-top: 5rem;
+}
+
