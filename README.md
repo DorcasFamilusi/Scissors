@@ -5,7 +5,7 @@
 <!-- Project Logo -->
 <br />
 <div align="center">
-  <a href=""> 
+  <a href="https://url-shortener-52g6.onrender.com/"> 
   </a>
 </div>
 
@@ -72,7 +72,7 @@ Scissors is a URL-shortening tool designed to make sharing links more convenient
 
 Our intuitive interface, customizable links, and detailed analytics provide a seamless user experience, making it the perfect tool for marketers, content creators, and anyone looking to share links efficiently. Join Scissor today and experience the power of concise, shareable links.
 
-Live Site: []()
+Live Site: [url-shortener.onrender](https://url-shortener-52g6.onrender.com/)
 
 Full Documentation: [Readme](https://github.com/DorcasFamilusi/Scissors/edit/main/README.md)
 
@@ -148,7 +148,7 @@ This tool will be accessed via the deployed site or you can run it locally on yo
 
 ### Live Link
 
-Deployed site: []() - hosted via [render](https://www.render.com) 
+Deployed site: [url-shortener.onrender](https://url-shortener-52g6.onrender.com/) - hosted via [render](https://www.render.com) 
 
 ### Localhost
 
@@ -221,7 +221,7 @@ On gitbash terminal
 <!-- License -->
 ## License
 
-Distributed under the MIT License. See <a href="">LICENSE</a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/DorcasFamilusi/Scissors/blob/main/LICENSE">LICENSE</a> for more information.
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -232,11 +232,11 @@ Distributed under the MIT License. See <a href="">LICENSE</a> for more informati
 
 Dorcas Familusi - [@dorcasfam](https://twitter.com/dorcasfam) - familusidorcas@gmail.com
 
-Live Site: []()
+Live Site: [url-shortener.onrender](https://url-shortener-52g6.onrender.com)
 
 Project Link: [Scissors Repo](https://github.com/DorcasFamilusi/Scissors)
 
-Documentation: [Scissors Wiki]()
+Documentation: [Scissors Wiki](https://github.com/DorcasFamilusi/Scissors/edit/main/README.md)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
